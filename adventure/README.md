@@ -23,3 +23,8 @@ Each level requires at least 8 of 10 modaks, all 3 flowers, and its puzzle befor
 The original submitted game remains at the repository root. This expanded version lives in /adventure/.
 
 Built with ChatGPT/Codex assistance. Festival background artwork was AI-generated; the mouse is drawn with Canvas. Music and effects are synthesized with Web Audio. Emoji appearance varies by platform.
+
+## Clear level order and completion goodies
+Press Play, read the Level 1 goal, and press Play Level 1. Finish the level and place a pandal decoration to unlock the Level 2 introduction; repeat for Level 3. The progress strip marks completed, current, and locked levels. Introductions do not run the timer.
+
+Completing all three levels unlocks the Festival Hero trophy plus Golden Crown and Lotus Scarf outfits. Open your goodies on the celebration screen, choose an outfit, and replay wearing it. My goodies on the title screen opens rewards earned on an earlier visit. Reward unlocks and outfit choice are saved locally in the same browser; if storage is unavailable, rewards work for the current visit. These are cosmetic rewards and do not change physics or scoring.
